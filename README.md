@@ -24,7 +24,9 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
+Peter Nees - Initial Work.
 See also [EOD Historical Data](https://eodhistoricaldata.com/) for more details.
+
 
 ## License
 
